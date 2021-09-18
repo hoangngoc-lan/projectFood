@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="giaodiennhahang2.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="Bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title></title>
+</head>
+<body>
+	<article class="container-fuld">
+       <section class="row-one">
+           <section class="header-left">
+               <img src="img/logo.png">
+</section>
+<section class="header-right">
+	<ul>
+		 <li>
+		 <a href="giaodiennhahang.php">Home</a>
+         </li>  
+		 <li>
+		 <a href="giaodiennhahang2.php">Categories</a>
+         </li>
+		 <li>
+		 <a href="giaodiennhahang3.php">Foods</a>
+         </li>
+		 <li>
+		 <a href="#">Contact</a>
+         </li>	
+   </ul>
+</section>
+
+
+
+   </section>
+   <section class="row-four"><br>
+			<h3 style="text-align: center;">Explore Food</h3>
+			<br>
+			<section class="Expore-Food">
+				<section class="Food-item1">
+					
+						<h1 style="text-align:center;margin-top:270px;">Pizza</h1>
+				
+				</section>
+				<section class="Food-item2">
+					<h1 style="text-align:center;margin-top:270px;">Burger</h1>
+					
+						
+					
+				</section>
+				<section class="Food-item3">
+					<h1 style="text-align:center;margin-top:270px;">Momo</h1>
+					
+						
+				
+				</section>
+				<section class="Food-item1">
+					
+						<h1 style="text-align:center;margin-top:270px;">Pizza</h1>
+				
+				</section>
+				<section class="Food-item2">
+					<h1 style="text-align:center;margin-top:270px;">Burger</h1>
+					
+						
+					
+				</section>
+				<section class="Food-item3">
+					<h1 style="text-align:center;margin-top:270px;">Momo</h1>
+					
+						
+				
+				</section>
+				<section class="Food-item1">
+					
+						<h1 style="text-align:center;margin-top:270px;">Pizza</h1>
+				
+				</section>
+				<section class="Food-item2">
+					<h1 style="text-align:center;margin-top:270px;">Burger</h1>
+					
+						
+					
+				</section>
+				<section class="Food-item3">
+					<h1 style="text-align:center;margin-top:270px;">Momo</h1>
+					
+						
+				
+				</section>
+				<section class="Food-item1">
+					
+						<h1 style="text-align:center;margin-top:270px;">Pizza</h1>
+				
+				</section>
+				<section class="Food-item2">
+					<h1 style="text-align:center;margin-top:270px;">Burger</h1>
+					
+						
+					
+				</section>
+				<section class="Food-item3">
+					<h1 style="text-align:center;margin-top:270px;">Momo</h1>
+					
+						
+				
+				</section>
+
+				
+			</section>
+		
+
+
+
+		</section>
+
+		<section class="row-footer">
+        	<br><br><br>
+        	<ul >
+        		<li><a href=""><i class="fa fa-facebook" title="Facebook"></i></a></li>
+        		<li><a href=""><i class="fa fa-instagram" title="instagram"></i></a></li>
+        		<li><a href=""><i class="fa fa-twitter" title="twitter"></i></a></li>
+        	</ul>
+        	<br><br><br>
+        	<span >All rights reverved.Designed By <a href="#" style="color:#F781F3;">CSE.TLU</a></span>
+				
+        	
+        </section>
+</article>
+   <script src="jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="Bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>

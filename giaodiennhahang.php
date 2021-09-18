@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="giaodiennhahang.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="Bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title></title>
+</head>
+<body>
+	<article class="container-fuld">
+       <section class="row-one">
+           <section class="header-left">
+               <img src="img/logo.png">
+</section>
+<section class="header-right">
+	<ul>
+		 <li>
+		 <a href="giaodiennhahang.php">Home</a>
+         </li>  
+		 <li>
+		 <a href="giaodiennhahang2.php">Categories</a>
+         </li>
+		 <li>
+		 <a href="giaodiennhahang3.php">Foods</a>
+         </li>
+		 <li>
+		 <a href="#">Contact</a>
+         </li>	
+   </ul>
+</section>
+
+
+
+   </section>
+		<section class="row-two">
+			<br><br><br><br><br>
+        <form class="form-inline my-2 my-lg-0" style="margin-left: 500px; ">
+		<input type="search" class="form-control mr-sm-2"  name="" placeholder="Search  for Food" aria-label="Searcg" style="width: 500px;">
+		<button class=" btn btn-danger my-2 my-sm-0" type="submit">Search</button>
+	</form>
+				
+		</section>
+		<section class="row-four"><br>
+			<h3 style="text-align: center;">Explore Food</h3>
+			<br>
+			<section class="Expore-Food">
+				<section class="Food-item1">
+					
+						<h1 style="text-align:center;margin-top:270px;">Pizza</h1>
+				
+				</section>
+				<section class="Food-item2">
+					<h1 style="text-align:center;margin-top:270px;">Burger</h1>
+					
+						
+					
+				</section>
+				<section class="Food-item3">
+					<h1 style="text-align:center;margin-top:270px;">Momo</h1>
+					
+						
+				
+				</section>
+				
+			</section>
+		
+
+
+
+		</section>
+		<section class="row-three"><h2 style="text-align: center;"><br>Food Menu</h2>
+			<br><br><br><br>
+			<section class="menu">
+			<section class="product-item">
+					
+			<section class="product-img">
+						<section class="img1">
+							<img src="img/menu-pizza.jpg">
+
+						</section>
+						<section class="ifor"> 
+							<b>Food Title</b><br>
+							$2.3<br>
+							<a href="">Made with italian Sauce,Chicken,and<br>organice vegetables.</a><br><br>
+							<a href="giaodiennhahang1.php"><button  >Oder Now</button></a>
+							
+							
+							
+							
+						</section>
+					</section>
+				</section>
+				<section class="product-item">
+					
+			<section class="product-img">
+						<section class="img1">
+							<img src="img/menu-momo.jpg">
+
+						</section>
+						<section class="ifor"> 
+							<b>Food Title</b><br>
+							$2.3<br>
+							<a href="">Made with italian Sauce,Chicken,and<br>organice vegetables.</a><br><br>
+							<a href="giaodiennhahang1.php"><button  >Oder Now</button></a>
+							
+							
+							
+						</section>
+					</section>
+				</section>
+				<section class="product-item">
+					
+			<section class="product-img">
+						<section class="img1">
+							<img src="img/menu-burger.jpg">
+
+						</section>
+						<section class="ifor"> 
+							<b>Food Title</b><br>
+							$2.3<br>
+							<a href="">Made with italian Sauce,Chicken,and<br>organice vegetables.</a><br><br>
+							<a href="giaodiennhahang1.php"><button  >Oder Now</button></a>
+							
+							
+							
+						</section>
+					</section>
+				</section>
+				<section class="product-item">
+					
+			<section class="product-img">
+						<section class="img1">
+							<img src="img/pizza.jpg">
+
+						</section>
+						<section class="ifor"> 
+							<b>Food Title</b><br>
+							$2.3<br>
+							<a href="">Made with italian Sauce,Chicken,and<br>organice vegetables.</a><br><br>
+							<a href="giaodiennhahang1.php"><button  >Oder Now</button></a>
+							
+							
+							
+						</section>
+					</section>
+				</section>
+				<section class="product-item">
+					
+			<section class="product-img">
+						<section class="img1">
+							<img src="img/burger.jpg">
+
+						</section>
+						<section class="ifor"> 
+							<b>Food Title</b><br>
+							$2.3<br>
+							<a href="">Made with italian Sauce,Chicken,and<br>organice vegetables.</a><br><br>
+							<a href="giaodiennhahang1.php"><button  >Oder Now</button></a>
+							
+							
+							
+						</section>
+					</section>
+				</section>
+				<section class="product-item">
+					
+			<section class="product-img">
+						<section class="img1">
+							<img src="img/momo.jpg">
+
+						</section>
+						<section class="ifor"> 
+							<b>Food Title</b><br>
+							$2.3<br>
+							<a href="">Made with italian Sauce,Chicken,and<br>organice vegetables.</a><br><br>
+							<a href="giaodiennhahang1.php"><button  >Oder Now</button></a>
+							
+							
+							
+						</section>
+					</section>
+				</section>
+				<p style="text-align:center;"><a style="color: red;"></a>See All Foods</p>
+				
+        </section>
+        <section class="row-footer">
+        	<br><br><br>
+        	<ul >
+        		<li><a href=""><i class="fa fa-facebook" title="Facebook"></i></a></li>
+        		<li><a href=""><i class="fa fa-instagram" title="instagram"></i></a></li>
+        		<li><a href=""><i class="fa fa-twitter" title="twitter"></i></a></li>
+        	</ul>
+        	<br><br><br>
+        	<span >All rights reverved Designed By <a href="#" style="color:red;">Vijay Thapa</a></span>
+				
+        	
+        </section>
+
+		
+		
+
+
+	</article>
+<script src="jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="Bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+</html>

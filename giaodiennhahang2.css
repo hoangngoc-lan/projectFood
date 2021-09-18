@@ -1,0 +1,172 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.row-two{
+	background-image:url(img/bg.jpg);
+	width: 100%;
+	height:300px;
+    clear: both;
+    background-size: 100%;
+    overflow: hidden;
+
+}
+.row-one{
+    width: 100%;
+    height:60px;
+    clear: both;
+
+}
+.header-left{
+    width: 50%;
+    height: 100%;
+   
+    float: left;
+}
+.header-right{
+    width: 49%;
+    height: 100%;
+    float: left;
+
+}
+.header-left img{
+    width: 18%;
+    height:50%;
+    margin-top:1.5%;
+    margin-left:20%;
+
+}
+.header-right ul{
+    list-style-type: none;
+    margin-left:40%;
+}
+.header-right li{
+    float: left;
+    list-style-type: none;
+    margin: 15px;
+}
+.header-right a{
+    color:red;
+    
+}
+.row-four{
+	
+	width:100%;
+	height:1600px;
+	clear: both;
+	
+}
+.Expore-Food{
+	width:60%;
+	height:93%;
+	float: left;
+	margin-left:20% ;
+	overflow: hidden;
+	margin-top: 20px;
+	background-color: white;
+}
+.Food-item1{
+	width:30%;
+	height:23%;
+	float: left;
+	background-image:url(img/pizza.jpg);
+	background-size:contain;
+	border-radius:10px;
+	color:white;
+	margin:15px;
+
+}
+.Food-item2{
+	width:30%;
+	height:23%;
+
+	float: left;
+	background-image:url(img/burger.jpg);
+	border-radius:10px;
+	overflow: hidden;
+	background-size:contain;
+	color:white;
+	margin:15px;
+
+}
+.Food-item3{
+	width:30%;
+	height:23%;
+	float: left;
+	background-image:url(img/momo.jpg);
+	border-radius:10px;
+	overflow: hidden;
+	color:white;
+	background-size:contain;
+   margin: 15px;
+}
+.row-footer{
+	width: 100%;
+	height:300px;
+	background-color: white;
+	clear: both;
+}
+.row-footer ul {
+	margin-left:40%;
+}
+.row-footer li{
+	list-style-type:none;
+	float: left;
+
+
+}
+
+.row-footer ul li{
+list-style-type: none;
+margin: 0 30px;
+
+}
+.row-footer ul li a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+
+}
+ .row-footer ul li .fa{
+	font-size:45px;
+	line-height: 80px;
+	transition: 500ms;
+
+}
+ .row-footer ul li a {
+	position: relative;
+	width:50px;
+	height: 50px;
+	text-align: center;
+	
+	
+}
+.row-footer ul li:nth-child(1) a{
+	background:blue;
+	color: white;
+	border-radius: 50%;
+
+}
+.row-footer ul li:nth-child(2) a{
+	background:linear-gradient(#401180, transparent),
+	linear-gradient(200deg,#0077bb,#d047d1,#ff0000,#ffff00);
+	border-radius:25%;
+
+}
+.row-three p {
+	color:red;
+	font-size:13px;
+	margin-top: 455px;
+
+}
+.row-footer span{
+	margin-left:650px;
+	font-size:12px;
+}
